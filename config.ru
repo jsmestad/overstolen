@@ -1,3 +1,3 @@
-require 'overstolen'
+require 'over_stolen'
 
-run Overstolen::App
+run OverStolen::App
