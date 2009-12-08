@@ -5,10 +5,11 @@ require 'date'
 
 require 'sinatra'
 require 'dm-core'
+require 'do_sqlite3'
 
 DataMapper.setup(:default, ENV['DATABASE_URL'] || 'sqlite3://my.db')
 
-HOST_URL = 'http://someapp.heroku.com'
+HOST_URL = 'http://overstolen.heroku.com'
 
 module OverStolen
   class Key
