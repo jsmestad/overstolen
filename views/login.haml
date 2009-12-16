@@ -1,0 +1,11 @@
+%h2 Login
+
+%form#login_form{ :action => '/login' }
+  .field
+    %label{ :for => 'login'} Twitter Username:
+    %input.text_field{ :type => 'text', :name => 'login'}
+  .field
+    %label{ :for => 'password' } Password:
+    %input.password_field{ :type => 'password', :name => 'password' }
+  .field.submit
+    %input.submit{ :type => 'submit', :value => "Log In" } 
