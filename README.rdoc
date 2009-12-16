@@ -1,0 +1,6 @@
+== OverStolen
+
+This application is a WIP. 
+
+It acts as a license server allowing you to control what keys are valid and which are not. I am currently using this to ensure freelance applications are paid for and authorized for use by the given user.
+
