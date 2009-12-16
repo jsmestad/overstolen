@@ -1,2 +1,2 @@
-'sinatra_warden', '>= 0.1.6'
-'oauth'
+sinatra_warden --version '>= 0.1.6'
+oauth
