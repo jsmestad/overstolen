@@ -1,0 +1,2 @@
+'sinatra_warden', '>= 0.1.6'
+'oauth'
