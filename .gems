@@ -1,3 +1,5 @@
 warden --version '~> 0.5.3'
 sinatra_warden --version '>= 0.1.6'
 oauth
+dm-core
+bcrypt-ruby
